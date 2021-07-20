@@ -10,14 +10,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/fmelihh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fmelihh" height="30" width="40" /></a>
-  
+<a href="https://linkedin.com/in/fmelihh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fmelihh" height="30" width="40" /></a>
 <a href="https://medium.com/@fmelihh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fmelihh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/furkanmeliherca3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="furkanmeliherca3" height="30" width="40" /></a>
  
 </p>
 
-<p style="text-align:center">
+<p align="center">
 <a href="https://www.codewars.com/users/fmelihh" target="blank"><img align="center" src="https://www.codewars.com/users/fmelihh/badges/small" alt="fmelihh"/></a>
 </p>
 
