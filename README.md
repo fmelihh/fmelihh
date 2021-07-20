@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Furkan Melih</h1>
 - 🌱 I’m currently work as a software development intern at **Ploud**
-- <br>
+  <br>
 - 🌱 I’m currently learning **python**
 
-- 📝 I regularly write articles on [https://fmelihh.medium.com/](Medium)
+- 📝 I regularly write articles on [fmelihh.Medium](https://fmelihh.medium.com/)
 
 - 📫 How to reach me **furkanmelihercan.98@gmail.com**
 
