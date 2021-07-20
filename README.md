@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Melih</h1>
 - 🌱 I’m currently work as a software development intern at Ploud
   <br>
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python
 
 - 📝 I regularly write articles on [**fmelihh.Medium**](https://fmelihh.medium.com/)
 
@@ -17,7 +17,7 @@
 </p>
 
 <p style="text-align:center">
-<a href="https://www.codewars.com/users/fmelihh" target="blank"><img align="center" src="https://www.codewars.com/users/fmelihh/badges/micro" alt="fmelihh"/></a>
+<a href="https://www.codewars.com/users/fmelihh" target="blank"><img align="center" src="https://www.codewars.com/users/fmelihh/badges/small" alt="fmelihh"/></a>
 </p>
 
 
